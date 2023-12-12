@@ -1,0 +1,21 @@
+instalei com o yarn 
+
+o npm estava dando comflito com os packge entre as dependencias
+
+criei um arquivo docker-compose.yml para subir os containers da aplicação 
+seria redis e o postgres 
+
+a senha usuario e banco de dados do postgres
+
+user: postgres
+
+bd: postgres
+
+pass: postgres
+
+a senha do redis é 
+
+redis@123
+
+para rodar o projeto uso o yarn dev:server
+
